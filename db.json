@@ -1,0 +1,328 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Xiaomi Pad 5",
+      "image": "https://i.ibb.co/qgM7JkY/tablet.png",
+      "price": 489,
+      "rating": {
+        "number": 5,
+        "image": "https://i.ibb.co/tDCPNvK/five-Stars.png"
+      },
+      "orders": 150,
+      "description": "The Xiaomi Pad 5 has been introduced first with the Mix 4 in China, and now, it's getting its worldwide debut together with the Xiaomi 11T smartphone series. The Xiaomi Pad 5 (make note of the missing Mi insignia) is a sleek budget tablet with a premium Dolby Vision screen and Dolby Atmos speakers, as well as flagship-grade performance",
+      "features": 2,
+      "category": 1
+    },
+    {
+      "id": 2,
+      "name": "MacBook Pro",
+      "image": "https://i.ibb.co/1Qy3bm4/macbook.png",
+      "price": 800,
+      "rating": {
+        "number": 4,
+        "image": "https://i.ibb.co/VWjgZRz/four-Stars.png"
+      },
+      "orders": 30,
+      "description": "Apple MacBook Pro is a macOS laptop with a 13.30-inch display that has a resolution of 2560x1600 pixels. It is powered by a Core i5 processor and it comes with 12GB of RAM. The Apple MacBook Pro packs 512GB of SSD storage.",
+      "features": 1,
+      "category": 2
+    },
+    {
+      "id": 3,
+      "name": "iPhone 12 Red",
+      "image": "https://i.ibb.co/yqMz1sD/iphone-red.png",
+      "price": 629,
+      "rating": {
+        "number": 3,
+        "image": "https://i.ibb.co/1n523x3/three-Stars.png"
+      },
+      "orders": 60,
+      "description": "As part of our efforts to reach carbon neutrality by 2030, iPhone 12 does not include a power adapter or EarPods. Included in the box is a USB‑C to Lightning Cable that supports fast charging and is compatible with USB‑C power adapters and computer ports.",
+      "features": 5,
+      "category": 3
+    },
+    {
+      "id": 4,
+      "name": "iPhone 12 Blue",
+      "image": "https://i.ibb.co/QX511Jx/iphone-blue.png",
+      "price": 650,
+      "rating": {
+        "number": 5,
+        "image": "https://i.ibb.co/tDCPNvK/five-Stars.png"
+      },
+      "orders": 80,
+      "description": "As part of our efforts to reach carbon neutrality by 2030, iPhone 12 does not include a power adapter or EarPods. Included in the box is a USB‑C to Lightning Cable that supports fast charging and is compatible with USB‑C power adapters and computer ports.",
+      "features": 3,
+      "category": 3
+    },
+    {
+      "id": 5,
+      "name": "Apple AirPods Max",
+      "image": "https://i.ibb.co/18r8F1f/headphone-white.png",
+      "price": 800,
+      "rating": {
+        "number": 2,
+        "image": "https://i.ibb.co/cvry9NG/twoStars.png"
+      },
+      "orders": 120,
+      "description": "The over-ear headphone has been completely reimagined. From cushion to canopy, AirPods Max are designed for an uncompromising fit that creates the optimal acoustic seal for many different head shapes — fully immersing you in every sound.",
+      "features": 4,
+      "category": 5
+    },
+    {
+      "id": 6,
+      "name": "Headphone E-Dra EH402",
+      "image": "https://i.ibb.co/84mSB6S/headphone-black.png",
+      "price": 560,
+      "rating": {
+        "number": 4,
+        "image": "https://i.ibb.co/VWjgZRz/four-Stars.png"
+      },
+      "orders": 178,
+      "description": "A gaming headset is used for talking with other players during a game. Gaming headsets also come with a variety of connectivity features, from headsets using the classic 1/4-inch (6.35 mm) plug-in jack, to headphones equipped with Bluetooth® wireless",
+      "features": 4,
+      "category": 5
+    },
+    {
+      "id": 7,
+      "name": "iPad Pro M1",
+      "image": "https://i.ibb.co/LzvHGLf/ipad-pro-2021-11inch-grey-2.webp",
+      "price": 1500,
+      "rating": {
+        "number": 4,
+        "image": "https://i.ibb.co/VWjgZRz/four-Stars.png"
+      },
+      "orders": 190,
+      "description": "The revolutionary M1 chip has been a breakthrough for the Mac, and we’re incredibly excited to bring it to iPad Pro,” said Greg Joswiak, Apple’s senior vice president of Worldwide Marketing. “With M1’s huge jump in performance, a groundbreaking extreme dynamic range experience on the 12.9-inch Liquid Retina XDR display, up to 2TB of high-speed storage, Thunderbolt expansion, a four-speaker audio system, pro cameras with LiDAR Scanner, blazing-fast 5G connectivity, an amazing video-calling experience with Centre Stage — combined with the advanced features of iPadOS and a powerful pro app ecosystem all in a device users can hold in one hand — there’s nothing else like iPad Pro.",
+      "features": 4,
+      "category": 1
+    },
+    {
+      "id": 8,
+      "name": "Apple Watch Series 8",
+      "image": "https://i.ibb.co/1X2XrWD/apple-watch.png",
+      "price": 890,
+      "rating": {
+        "number": 5,
+        "image": "https://i.ibb.co/tDCPNvK/five-Stars.png"
+      },
+      "orders": 210,
+      "description": "Smooth and seamless. The edge of design. Apple Watch Series 8 features a big, brilliant Always‑On display. Narrow borders push the screen right to the edge, resulting in an elegant integration with the curvature of the case.",
+      "features": 4,
+      "category": 4
+    },
+    {
+      "id": 9,
+      "name": "Apple Watch Series 8",
+      "image": "https://i.ibb.co/PTVjCF2/android-black.png",
+      "price": 990,
+      "rating": {
+        "number": 3,
+        "image": "https://i.ibb.co/1n523x3/three-Stars.png"
+      },
+      "orders": 145,
+      "description": "Smooth and seamless. The edge of design. Apple Watch Series 8 features a big, brilliant Always‑On display. Narrow borders push the screen right to the edge, resulting in an elegant integration with the curvature of the case.",
+      "features": 3,
+      "category": 3
+    },
+    {
+      "id": 10,
+      "name": "Macbook Air 2022",
+      "image": "https://i.ibb.co/ZBryS4N/macbook-air.jpg",
+      "price": 990,
+      "rating": {
+        "number": 5,
+        "image": "https://i.ibb.co/tDCPNvK/five-Stars.png"
+      },
+      "orders": 28,
+      "description": "Apple 2022 MacBook Air Laptop with M2 chip: 13.6-inch Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone and iPad; Space Gray",
+      "features": 4,
+      "category": 2
+    },
+    {
+      "id": 11,
+      "name": "Xiaomi Pad 5",
+      "image": "https://i.ibb.co/LkvSktT/xiaomi-pad-5-white-600x600.jpg",
+      "price": 500,
+      "rating": {
+        "number": 4,
+        "image": "https://i.ibb.co/VWjgZRz/four-Stars.png"
+      },
+      "orders": 210,
+      "description": "From the moment the Xiaomi Pad 5 screen lights up, you will be immersed in a world of vibrant colour. Dolby Vision support and natural high-fidelity colour ensures an incredible visual experience when it comes to images, games and films",
+      "features": 5,
+      "category": 1
+    },
+    {
+      "id": 12,
+      "name": "Samsung Galaxy Tab A8",
+      "image": "https://i.ibb.co/SK3qQvp/samsung-galaxy-tab-a8.jpg",
+      "price": 829,
+      "rating": {
+        "number": 4,
+        "image": "https://i.ibb.co/VWjgZRz/four-Stars.png"
+      },
+      "orders": 112,
+      "description": "Samsung has done it again! We’ve created yet another powerful, chic tablet: the Galaxy Tab A8. This device includes the innovative One UI 4 operating system as well as all the iconic Samsung features and specs you’d expect. Check out this guide to get a basic rundown of the things the Tab A8 has to offer and how it can make your downtime more enjoyable",
+      "features": 3,
+      "category": 1
+    },
+    {
+      "id": 13,
+      "name": "Lenovo ThinkPad X1 Carbon Gen 8",
+      "image": "https://i.ibb.co/KF9mk5N/thinkpad-x1-carbon-gen-8-1.jpg",
+      "price": 1200,
+      "rating": {
+        "number": 3,
+        "image": "https://i.ibb.co/1n523x3/three-Stars.png"
+      },
+      "orders": 89,
+      "description": "Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination. Please check compatibility before purchasing",
+      "features": 2,
+      "category": 2
+    },
+    {
+      "id": 14,
+      "name": "DELL XPS 9315",
+      "image": "https://i.ibb.co/4JqfmpZ/Dell-XPS-13-2-in-1-9315-4.jpg",
+      "price": 899,
+      "rating": {
+        "number": 4,
+        "image": "https://i.ibb.co/VWjgZRz/four-Stars.png"
+      },
+      "orders": 110,
+      "description": "The aluminum chassis is just 1.4 cm (~0.55 in) thick and has a low weight of only 1.17 kg (~2.58 lbs). Buyers can choose between the Intel Core i5-1230U and the Intel Core i7-1250U, which means there are at least two performance and eight efficiency cores. 8 to 32 GB of LPDDR5-5200 RAM and a PCIe-4.0 SSD with 256 GB to 2 TB rounds off the system",
+      "features": 2,
+      "category": 2
+    },
+    {
+      "id": 15,
+      "name": "Samsung Galaxy S23 Ultra",
+      "image": "https://i.ibb.co/2jdZRpT/samsung-galaxy-s23-ultra.jpg",
+      "price": 1500,
+      "rating": {
+        "number": 5,
+        "image": "https://i.ibb.co/tDCPNvK/five-Stars.png"
+      },
+      "orders": 80,
+      "description": "Get ready to become your group's go-to photographer. We've packed Galaxy's biggest sensor, light-absorbing pixels and video stabilization technology into one epic camera for life's most share-worthy moments",
+      "features": 1,
+      "category": 3
+    },
+    {
+      "id": 16,
+      "name": "Apple AirPods Pro",
+      "image": "https://i.ibb.co/ygC2ZfX/airpods-pro.png",
+      "price": 800,
+      "rating": {
+        "number": 5,
+        "image": "https://i.ibb.co/tDCPNvK/five-Stars.png"
+      },
+      "orders": 290,
+      "description": "AirPods are the best-selling headphones in the world. The one-tap setup experience, incredible sound and iconic design have made them a beloved Apple product, and with AirPods Pro, we’re taking the magic even further,” said Phil Schiller, Apple’s senior vice president of Worldwide Marketing. “The new in-ear AirPods Pro sound amazing with Adaptive EQ, fit comfortably with flexible ear tips and have innovative Active Noise Cancellation and Transparency mode. We think customers are going to love this new addition to the AirPods family",
+      "features": 2,
+      "category": 5
+    },
+    {
+      "id": 17,
+      "name": "Marshall Motif ANC",
+      "image": "https://i.ibb.co/D7D3B9k/marshall-motif.jpg",
+      "price": 550,
+      "rating": {
+        "number": 2,
+        "image": "https://i.ibb.co/cvry9NG/twoStars.png"
+      },
+      "orders": 160,
+      "description": "Marshall is a true rock legend. A distinct and expressive sound combined with an iconic stage presence that has inspired music fans around the world for over five decades. This unparalleled amount of wisdom has been distilled and fused into every part of Marshall headphones and speakers. Nothing has been compromised when expanding the Marshall heritage of big stage performance to the individual enjoyment of good music",
+      "features": 2,
+      "category": 5
+    },
+    {
+      "id": 18,
+      "name": "Apple Watch Series 7",
+      "image": "https://i.ibb.co/jVhXX5j/apple-watch-series-7.png",
+      "price": 450,
+      "rating": {
+        "number": 3,
+        "image": "https://i.ibb.co/1n523x3/three-Stars.png"
+      },
+      "orders": 36,
+      "description": "Apple Watch Series 7, Apple Watch SE, and Apple Watch Series 3 have a water resistance rating of 50 meters under ISO standard 22810:2010. This means that they may be used for shallow-water activities like swimming in a pool or ocean. However, they should not be used for scuba diving, waterskiing, or other activities involving high-velocity water or submersion below shallow depth. Series 7 is also rated IP6X dust resistant",
+      "features": 5,
+      "category": 4
+    },
+    {
+      "id": 19,
+      "name": "Galaxy Watch4 Classic",
+      "image": "https://i.ibb.co/NsbKtwp/samsung-watch4.png",
+      "price": 850,
+      "rating": {
+        "number": 4,
+        "image": "https://i.ibb.co/VWjgZRz/four-Stars.png"
+      },
+      "orders": 320,
+      "description": "Released in Summer 2021, the Galaxy Watch4 and Galaxy Watch4 Classic are the first watches to run the revamped Wear OS 3. After a slightly shaky release window, Samsung’s made good on its promises to add once-missing features like the Google Assistant through updates. Nearly a year after launch, I’m still regularly using the thing — and thanks in part to Samsung keeping its word, I still love it",
+      "features": 2,
+      "category": 4
+    },
+    {
+      "id": 20,
+      "name": "Huawei Watch Fit",
+      "image": "https://i.ibb.co/NybV9Tp/huawei-watch-fit.png",
+      "price": 650,
+      "rating": {
+        "number": 4,
+        "image": "https://i.ibb.co/VWjgZRz/four-Stars.png"
+      },
+      "orders": 120,
+      "description": "According to Quandt and WinFuture, this year's Watch FIT will scale up to 1.74-inches. Additionally, the Watch FIT 2 is expected to operate at 336 x 480 pixels, a minor improvement on the 280 x 456-pixel panel that the original Watch FIT has. Unsurprisingly, the Watch FIT 2 will run HarmonyOS 2.0, Huawei's in-house operating system",
+      "features": 2,
+      "category": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tablet"
+    },
+    {
+      "id": 2,
+      "name": "Laptop"
+    },
+    {
+      "id": 3,
+      "name": "Phone"
+    },
+    {
+      "id": 4,
+      "name": "Watch"
+    },
+    {
+      "id": 5,
+      "name": "Headphone"
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "name": "Metallic"
+    },
+    {
+      "id": 2,
+      "name": "Plastic cover"
+    },
+    {
+      "id": 3,
+      "name": "8GB Ram"
+    },
+    {
+      "id": 4,
+      "name": "Super power"
+    },
+    {
+      "id": 5,
+      "name": "Large Memory"
+    }
+  ]
+}
